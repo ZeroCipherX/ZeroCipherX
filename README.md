@@ -1,4 +1,5 @@
-![logo](https://github.com/ZeroCipherX/ZeroCipherX/blob/main/202409021842.mp4)
+![logo]([https://github.com/ZeroCipherX/ZeroCipherX/blob/main/202409021842.mp4)](https://github.com/user-attachments/assets/c0609c4c-f06b-422c-b20a-938fd1eea1b9
+)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/A9Dd65R6dR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zerocipherx) 
 
